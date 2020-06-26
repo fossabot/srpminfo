@@ -1,4 +1,5 @@
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fncoghlan%2Fsrpminfo.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fncoghlan%2Fsrpminfo?ref=badge_shield)
 
 I'm no longer working on any projects involving SRPM metadata extraction, so I'm not updating this either.
 
@@ -123,3 +124,7 @@ To clean these up in order to recreate them for some reason:
 $ oc delete all -l app=redis
 $ oc delete all -l build=redis-stateless
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fncoghlan%2Fsrpminfo.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fncoghlan%2Fsrpminfo?ref=badge_large)
